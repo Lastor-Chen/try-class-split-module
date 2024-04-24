@@ -11,8 +11,6 @@ const pin = '11111111'
   moduleA.methodA()
 }
 
-console.log()
-
 // 混合使用
 {
   const device = new Device(devicePort)
